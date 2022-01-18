@@ -26,7 +26,7 @@
                 <tr>  
                     <td> </td>  
                     <td>  
-                        <asp:Button ID="btnSubmit" runat="server" Text="Submit" /> </td>  
+                        <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="BtnSubmit_Click" /> </td>  
                 </tr>  
             </table>  
         </div>  </div>
